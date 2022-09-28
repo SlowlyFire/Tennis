@@ -1,5 +1,5 @@
 #!/bin/bash
-#Gal Giladi 312491616
+#Gal Giladi
 init_board() {
   clear
   var1=50
